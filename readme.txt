@@ -5,5 +5,5 @@ COMO SUBIR MUNDO:
 2- Copiar los archivos extension .db y .fwl Ejemplo: mimundo.db mimundo.fwl
 ______________________________________________
 BRANCHES:
-Main: nato
+main: nato
 master: nico
